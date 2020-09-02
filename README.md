@@ -1,7 +1,7 @@
 ### Hi there, I'm Jubayer Hossain <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-## I'm a Self-Learner, Dreamer and a Full Stack Developer!
+## I'm a Self-Learner, Dreamer and Love to Code!
 
 - 🔭 I’m currently working on something cool :wink: !
 - 🌱 I’m currently learning Vue, React, AWS Web Services and improving PHP skills. 
