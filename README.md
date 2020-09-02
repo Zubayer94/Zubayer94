@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other programmers.
 - 📫 How to reach me: [<img alt="LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/Zubayer94)
 - 🥅 2020 - 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to sleep and visite new places.
+- ⚡ Fun fact: I love to sleep and visit new places.
 
 <br />
 
