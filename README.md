@@ -4,7 +4,7 @@
 ## I'm a Self-Learner, Dreamer and a Full Stack Developer!
 
 - 🔭 I’m currently working on something cool :wink: !
-- 🌱 I’m currently learning Vue, React, AWS Web Services snd improving PHP skills. 
+- 🌱 I’m currently learning Vue, React, AWS Web Services and improving PHP skills. 
 - 👯 I’m looking to collaborate with other programmers.
 - 📫 How to reach me: [<img alt="LinkedIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/Zubayer94)
 - 🥅 2020 - 2021 Goals: Contribute more to Open Source projects.
