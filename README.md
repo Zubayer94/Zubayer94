@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on something cool :wink: !
 - 🌱 I’m currently learning Vue, React, AWS Web Services snd improving PHP skills. 
 - 👯 I’m looking to collaborate with other programmers.
-- 📫 How to reach me: [<img align="right" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 📫 How to reach me: [<img align="right" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/Zubayer94)
 - 🥅 2020 - 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to sleep and visite new places.
 
